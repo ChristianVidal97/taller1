@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+        
+       
+
+        .encabezado img{
+            width: 80px;
+            
+        }
+
+        .encabezado{
+            text-align: center;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 15px;
+        }
+
+        .entrada{
+            border: 0;
+            width: 70%;
+        }
+
+        .tabla1{
+            width: 100%;
+        }
+
+
+        #ident{
+            text-align: center;
+        }
+
+
+        .informacion{
+            position: relative;
+            
+            text-align: center;
+           
+        }
+
+        .texto1{
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 400;
+            font-size: 20px;
+            font-weight: bold;
+            font-style: italic;
+        }
+
+        .entrada1{
+            border-radius: 5px;
+            background-color: white;
+            width: 250px;
+            height: 25px;
+            
+            
+        }
+
+        .texto2{
+            font-family: 'Open Sans', sans-serif;
+            font-size: 15px;
+        }
+
+        .texto3{
+            font-family: 'Open Sans', sans-serif;
+            
+            
+        }
+
+        .separador{
+            text-align: center;
+            background-color:brown;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: bold;
+            color: white;
+           
+        }
+
+        .button{
+            border: none;
+            border-radius: 5px;
+            padding: 15px;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: bold;
+            color: white;
+            background-color: brown;
+        }
+
+        .button:hover{
+            background-color: rgb(255, 0, 0);
+        }

@@ -1,0 +1,73 @@
+.carousel-inner{
+    height: 800px;
+}
+
+.row{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+#img-tarjeta{
+    height: 400px;
+}
+
+.subt{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 25px;
+    color: brown;
+}
+
+.flotter{
+    margin-top: 50px;
+    background-color: gray;
+}
+
+#button-principal{
+    background-color: brown;
+}
+
+#img-servicios{
+    height: 400px;
+}
+
+
+
+
+.nosotross{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.mision-vision{
+    width: 35%;
+    text-align: justify;
+    
+}
+
+.vision{
+    margin-top: 50px;
+}
+
+.mision-vision h2{
+    text-align: center;
+    color: brown;
+}
+
+.reseña{
+    margin-top: 50px;
+}
+
+#button-iniciarsesion{
+    background-color: brown;
+    margin-right: 25px;
+}
+
+
+.form-outline{
+    margin-bottom: 20px;
+}
